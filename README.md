@@ -1,5 +1,5 @@
 # PHP-Captcha
-This is very simple and lightweight captcha function. You can easily configure it in your raw php project.
+This is very simple and lightweight Mathematical Captcha Class. You can easily configure it in your raw php project.
 
 # Documentation
  1. Download the **Mc.class.php** file and add this file in your project.
